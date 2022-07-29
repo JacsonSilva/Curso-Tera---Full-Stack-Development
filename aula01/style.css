@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: #fff;
+    background-color: black;
+}
+
+img{
+    border-radius: 50px;
+    
+}
+
+.minhacarreira{
+    background-color:#fff;
+    color: black;
+    text-align: left;
+    border: 2px;
+    border-style: solid;
+    margin: 30px;
+    
+}
